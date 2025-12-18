@@ -49,6 +49,7 @@ class ch2_1:
         print("Результат: ")
         for num in i:
             print(num)
+            
 class ch2_2:
     @staticmethod
     def func():
